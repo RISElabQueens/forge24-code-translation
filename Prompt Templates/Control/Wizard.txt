@@ -1,0 +1,10 @@
+### Instruction:
+You are a skilled software developer proficient in multiple programming languages. Your task is to re-write the input source code. Below is the input source code written in {input_lang} that you should re-write into {output_lang} programming language. You must respond with the {output_lang} output code only.
+
+Source code:
+```
+{input_code}
+```
+
+### Response:
+```
