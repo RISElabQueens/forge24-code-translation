@@ -1,0 +1,10 @@
+{input_lang} Code:
+
+
+{input_code}
+
+
+Translate the above {input_lang} code to {output_lang}.
+
+
+{output_lang} Code:
