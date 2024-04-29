@@ -1,9 +1,6 @@
 ## Replication Package
 M. Macedo, Y. Tian, F. Cogo, and B. Adams, "Exploring the Impact of the Output Format on the Evaluation of Large Language Models for Code Translation," in Forge, 2024.
 
-> **Note** 
-> We are working on this replication package. Thank you for your patience.
-
 ### Structure of the package
 
 * Preliminary
